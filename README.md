@@ -1,6 +1,6 @@
 ### Hi, it's [Charlie](https://charlessliu.com/) :grinning:
 
-## What I'm about
+## :weight_lifting_man: What I'm about
 
 I love designing all sorts of games and applications, but one thing must stay consistent - **designing with the user as the number one priority**. 
 
